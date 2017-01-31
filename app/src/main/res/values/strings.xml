@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Curso3Semana2</string>
+    <string name="form_username">Nombre Completo</string>
+    <string name="form_birthday">Fecha Nacimiento</string>
+    <string name="form_phone">Teléfono</string>
+    <string name="form_email">Email</string>
+    <string name="form_contact_description">Descripción Contacto</string>
+    <string name="form_contact_boton_siguiente">Siguiente</string>
+    <string name="confirmation_form_boton_editar">Editar Datos</string>
+    <string name="confirmation_form_titulo">Confirmar Datos</string>
+</resources>
